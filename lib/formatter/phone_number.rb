@@ -1,1 +1,1 @@
-require 'phone_number/uk'
+require 'formatter/phone_number/uk'
